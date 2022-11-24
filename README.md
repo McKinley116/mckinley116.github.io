@@ -1,1 +1,1 @@
-# mckinley116.gitbu.io
+# mckinley116.github.io
